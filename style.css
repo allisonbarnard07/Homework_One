@@ -135,6 +135,8 @@ section {
     background-color: #0072bb;
     color: #ffffff;
     width: 85%;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 section img {
